@@ -17,5 +17,5 @@ points into these grids. This is expensive and computationally expensive.
 • An approximate method: if you chose this method, you would come up with an
 approximate method that achieves the reduction purpose.
 
-You will be given a set of coordinates to build and test your method. Your Chosen method will
+Your Chosen method will
 be tested against a large set of coordinates for accuracy and efficiency.
